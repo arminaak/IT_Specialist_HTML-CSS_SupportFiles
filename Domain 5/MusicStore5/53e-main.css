@@ -35,7 +35,14 @@ figcaption {
     border-left-width:2px;
     border-right-width:2px;*/
     border: 2px solid navy;
+    background-color: #333333;
+    color: #f7d2aa;
 }
+
+#pagewidth{
+    width: 500px;
+}
+
 a {
     text-decoration: none;
     color:darkgreen;
