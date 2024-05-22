@@ -28,7 +28,7 @@ figcaption {
     display:inline;
 }
 a {
-    text-decoration: none;
+    text-decoration: double;
     color:darkgreen;
 }
 a:active {
